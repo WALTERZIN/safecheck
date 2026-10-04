@@ -1,0 +1,2 @@
+# safecheck
+do it normal 
